@@ -1,0 +1,10 @@
+httpx[http2]
+beautifulsoup4
+lxml
+pydantic>=2
+tenacity
+typer==0.12.*
+loguru
+feedparser
+tldextract
+tqdm

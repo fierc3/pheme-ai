@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/main.py
+src/pheme.egg-info/PKG-INFO
+src/pheme.egg-info/SOURCES.txt
+src/pheme.egg-info/dependency_links.txt
+src/pheme.egg-info/requires.txt
+src/pheme.egg-info/top_level.txt
+src/scraper/__init__.py
+src/scraper/chan_scraper.py

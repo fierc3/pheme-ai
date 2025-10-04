@@ -1,0 +1,22 @@
+[project]
+name = "pheme"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+  "httpx[http2]",
+  "beautifulsoup4",
+  "lxml",
+  "pydantic>=2",
+  "tenacity",
+  "typer==0.12.*",
+  "loguru",
+  "feedparser",
+  "tldextract",
+  "tqdm"
+]
+
+[tool.pyright]
+typeCheckingMode = "basic"
+
+[tool.ruff]
+line-length = 100
